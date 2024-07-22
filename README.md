@@ -1,4 +1,5 @@
 # Sales-Data-analysis-using-Tableau-SQL
+Tableau visualization of sales data analysis I have published to tableau public can be found here [https://public.tableau.com/views/SalesRevenueInsights_generatedby_singareddy/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## Requirements
 01. download and setup MySQL
